@@ -9,7 +9,7 @@ import (
 	"os/user"
 	"path/filepath"
 
-	"github.com/drone/drone-cli/drone/internal"
+	"github.com/moondev/drone-cli/drone/internal"
 	"github.com/drone/drone-go/drone"
 	"github.com/drone/funcmap"
 	"github.com/urfave/cli"

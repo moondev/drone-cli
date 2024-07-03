@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/buildkite/yaml"
-	"github.com/drone/drone-cli/drone/internal"
+	"github.com/moondev/drone-cli/drone/internal"
 	"github.com/urfave/cli"
 )
 

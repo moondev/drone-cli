@@ -1,7 +1,7 @@
 package repo
 
 import (
-	"github.com/drone/drone-cli/drone/internal"
+	"github.com/moondev/drone-cli/drone/internal"
 	"github.com/urfave/cli"
 )
 

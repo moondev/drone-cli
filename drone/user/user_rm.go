@@ -5,7 +5,7 @@ import (
 
 	"github.com/urfave/cli"
 
-	"github.com/drone/drone-cli/drone/internal"
+	"github.com/moondev/drone-cli/drone/internal"
 )
 
 var userRemoveCmd = cli.Command{

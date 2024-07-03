@@ -1,12 +1,12 @@
 package plugins
 
 import (
-	"github.com/drone/drone-cli/drone/plugins/admit"
-	"github.com/drone/drone-cli/drone/plugins/config"
-	"github.com/drone/drone-cli/drone/plugins/convert"
-	"github.com/drone/drone-cli/drone/plugins/environ"
-	"github.com/drone/drone-cli/drone/plugins/registry"
-	"github.com/drone/drone-cli/drone/plugins/secret"
+	"github.com/moondev/drone-cli/drone/plugins/admit"
+	"github.com/moondev/drone-cli/drone/plugins/config"
+	"github.com/moondev/drone-cli/drone/plugins/convert"
+	"github.com/moondev/drone-cli/drone/plugins/environ"
+	"github.com/moondev/drone-cli/drone/plugins/registry"
+	"github.com/moondev/drone-cli/drone/plugins/secret"
 
 	"github.com/urfave/cli"
 )

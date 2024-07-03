@@ -5,7 +5,7 @@ import (
 	"html/template"
 	"os"
 
-	"github.com/drone/drone-cli/drone/internal"
+	"github.com/moondev/drone-cli/drone/internal"
 	"github.com/drone/funcmap"
 	"github.com/urfave/cli"
 )
